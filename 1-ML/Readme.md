@@ -48,3 +48,24 @@ Reinforcement learning is a type of machine learning where an agent learns to ma
 
 **Example:**
 An example of reinforcement learning is training a computer program to play a game, such as chess. The program acts as the agent, making moves on the chessboard and receiving rewards based on the outcome of the game (win, lose, or draw). By learning from these rewards, the program can improve its strategy over time and become better at playing chess.
+
+## Steps for ML project
+
+1. Import Data
+2. Clean Data
+3. Split Data into Training/Test Sets
+4. Create a Model
+5. Train a Model
+6. Make Predictions
+7. Evaluate and improve
+
+## Python Libraries
+
+1. Numpy
+   - Numerical Python. Provides 2D arrays to work with
+2. Pandas
+   - Data analysis library. Provides DataFrames data respresented in tabular format.
+3. Matplotlib
+   - Provides 2D graphs, plots
+4. Scikit-Learn
+   - Provides ML algorithms like **Decision Trees, Neural networks.**
