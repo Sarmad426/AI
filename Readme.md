@@ -49,6 +49,9 @@ Short for **Natural Language Processing.** It focuses on language, enabling comp
 - Bard
 - Bing AI
 
+These are the examples of specific field in AI called **Generative AI.** Wanna learn more about Generative AI. Checkout this Repo.
+<https://github.com/sarmad426/Generative-AI>
+
 ## Speech Recognition
 
 Converts spoken language into text.
