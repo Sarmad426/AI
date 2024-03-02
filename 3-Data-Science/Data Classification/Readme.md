@@ -21,3 +21,13 @@
 - **Accuracy and maintainability:** The classification process should be designed to ensure accurate and consistent results, while also being adaptable to evolving data characteristics.
 
 By effectively classifying data, data scientists and AI practitioners can unlock its full potential, leading to improved decision-making, efficient information retrieval, enhanced security, and a wide range of other valuable applications.
+
+## Data Classification using Scikit Learn
+
+**Agenda:**
+
+1. Data Visualization
+2. Data Preprocessing
+3. Model filtering using Scikit learn
+4. Model Evaluation
+5. Result Analysis
