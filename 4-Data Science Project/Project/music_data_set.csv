@@ -1,0 +1,37 @@
+age,gender,genre
+18,Male,Pop
+20,Female,Rock
+22,Male,Electronic
+25,Female,Indie
+28,Male,Hip Hop
+30,Female,Classical
+35,Non-Binary,Alternative
+40,Male,Pop
+45,Female,Rock
+50,Male,Electronic
+55,Female,Indie
+60,Male,Hip Hop
+18,Female,Classical
+20,Male,Alternative
+22,Female,Pop
+25,Male,Rock
+28,Female,Electronic
+30,Male,Indie
+35,Female,Hip Hop
+40,Male,Classical
+45,Female,Alternative
+50,Male,Pop
+55,Female,Rock
+60,Male,Electronic
+18,Non-Binary,Indie
+20,Male,Hip Hop
+22,Female,Classical
+25,Non-Binary,Alternative
+28,Male,Pop
+30,Female,Rock
+35,Non-Binary,Electronic
+40,Male,Indie
+45,Female,Hip Hop
+50,Non-Binary,Classical
+55,Male,Alternative
+60,Female,Pop
