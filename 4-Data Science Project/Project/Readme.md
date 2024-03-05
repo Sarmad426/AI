@@ -23,3 +23,12 @@ This involves measuring the accuracy of the model's predictions on the testing d
 ## 5. Fine-tune the model
 
 If the model is not accurate enough, you may need to fine-tune the parameters of the model or select a different algorithm.
+
+## Calculating Model Accuracy
+
+Split data set into two sets.
+
+- Training
+- Testing
+
+A general rule of thumb is to allocate 70-80% of data for training and 20-30% data for testing. Then we pass data set we have for testing, we will get the prediction and compare this predictions with actual values in the test set, based on that we can calculate the model accuracy.
