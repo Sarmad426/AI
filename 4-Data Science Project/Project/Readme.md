@@ -32,3 +32,7 @@ Split data set into two sets.
 - Testing
 
 A general rule of thumb is to allocate 70-80% of data for training and 20-30% data for testing. Then we pass data set we have for testing, we will get the prediction and compare this predictions with actual values in the test set, based on that we can calculate the model accuracy.
+
+## Model Persistence
+
+Model persistence refers to the process of saving a trained machine learning model to disk so that it can be reused later without having to retrain it. This is crucial for deploying machine learning models in production environments, where they need to be accessed and utilized efficiently. By persisting the model, one can save time and resources by avoiding the need to retrain the model every time it's needed for prediction or inference. Techniques for model persistence vary depending on the framework or library being used, but commonly involve saving the model's parameters, architecture, and other relevant information to a file format that can be easily loaded back into memory when needed.
