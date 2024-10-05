@@ -59,3 +59,9 @@ Converts spoken language into text.
 ## Speech Synthesis
 
 Converts text to speech.
+
+## Prerequisites
+
+- Python <https://github.com/Sarmad426/Python>
+- Numpy <https://github.com/Sarmad426/Python/tree/main/8-Numpy>
+- Pandas <https://github.com/Sarmad426/Python/tree/main/9-Pandas>
