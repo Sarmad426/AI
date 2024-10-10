@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "ai"
+version = "0.1.0"
+description = "AI with python"
+authors = ["Sarmad Rafique <sarmadrafique040@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
