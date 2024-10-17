@@ -45,11 +45,9 @@ AGI represents a significant leap from current AI technologies, aiming to create
 
 OpenAI has 5 steps to reach AGI and we're only just moving towards step two — the creation of "reasoners". These are models capable of performing problem-solving tasks as well as a human with a PhD and no access to a textbook.
 
-[OpenAI outlines plan for AGI — 5 steps to reach superintelligence](https://www.tomsguide.com/ai/chatgpt/openai-has-5-steps-to-agi-and-were-only-a-third-of-the-way-there)
-
 OpenAI has proposed a roadmap with **five levels** to track progress toward building **Artificial General Intelligence (AGI)**:
 
-Level 1. **Chatbots**:
+### Level 1. **Chatbots**
 
     - AI with conversational language capabilities.
     - Examples: ChatGPT, virtual assistants.
@@ -60,7 +58,7 @@ Compare having a conversation with Siri or Alexa to that of ChatGPT or Gemini �
 
 Large natively multimodal models like GPT-4o, Gemini Pro 1.5 or Claude Sonnet 3.5 are at the top end of this level and are the first of the ‘frontier’ grade AIs. They are capable of complex, multi-threaded conversations, have memory and can do some limited reasoning.
 
-Level 2. **Reasoners**:
+### Level 2. **Reasoners**
 
     - AI with human-level problem-solving abilities.
     - Comparable to a human with a PhD, even without access to textbooks.
@@ -75,7 +73,7 @@ In the same way that GPT-3.5 was at the start of level 1, the start of level 2 c
 
 Meanwhile, Anthropic is expected to launch Claude Opus 3.5 in the coming months — this is the big brother to the impressive Claude 3.5 Sonnet and we’re still waiting on Google’s Gemini Ultra 1.5. This is the largest version of the Gemini model family.
 
-Level 3. **Agents**:
+### Level 3. **Agents**
 
     - Systems capable of taking actions on behalf of users.
     - Enables real-world, unsupervised decision-making.
@@ -85,7 +83,7 @@ Level 3 is when the AI models begin to develop the ability to create content or 
 
 There are a number of companies building agentic systems including Devin, the AI software engineer from Cognition, but these use existing models, clever prompting and set instructions rather than being something the AI can do natively on its own.
 
-Level 4. **Innovators**:
+### Level 4. **Innovators**
 
     - AI that aids in invention and discovery.
     - Creative problem-solving and novel solutions.
@@ -95,9 +93,9 @@ Level 4 is where the AI becomes more innovative and capable of "aiding in invent
 
 If you ask an AI to create a new language, without giving it specific words it will give you a version of Esperanto today, in the future, it could build it from scratch.
 
-OpenAI has a new partnership with the Los Alamos National Laboratory to develop AI-based bioscience research. This is more immediate in the fact they want to create safe ways to use AI in a lab setting, but will also likely help formulate plans for when AI can invent its own creations.
+OpenAI has a new partnership with the Los Alamos National Laboratory to develop AI-based bioscience research. This is more immediate in fact they want to create safe ways to use AI in a lab setting, but will also likely help formulate plans for when AI can invent its own creations.
 
-Level 5. **Organizations**:
+### Level 5. **Organizations**
 
     - AI that can perform work at an organizational scale.
     - Handling complex tasks across various domains.
@@ -112,10 +110,6 @@ Altman has previously said we could achieve AGI this decade. If he’s correct t
 Remember, AGI represents a level of intelligence surpassing humans across all tasks. While progress is being made, achieving true AGI remains a challenging endeavor!
 
 ## OpenAI's 'Strawberry' AI: The Future of Advanced Reasoning Unveiled
-
-[Watch: STRAWBERRY: OpenAI's MOST POWERFUL AI Ever With Human-Level Reasoning](https://www.youtube.com/watch?v=TOFb8YMPTnE)
-
-[Exclusive: OpenAI working on new reasoning technology under code name ‘Strawberry’](https://www.reuters.com/technology/artificial-intelligence/openai-working-new-reasoning-technology-under-code-name-strawberry-2024-07-12/)
 
 OpenAI's "Strawberry" project is an exciting endeavor aimed at enhancing the reasoning capabilities of artificial intelligence (AI) models. Let me break it down for you:
 
@@ -138,12 +132,6 @@ OpenAI's "Strawberry" project is an exciting endeavor aimed at enhancing the rea
 
 In summary, OpenAI's Strawberry project aims to create AI models with advanced reasoning skills, bridging the gap between current AI capabilities and human-like understanding. 🍓¹²³⁴
 
-Sources:
-(1) What we know about OpenAI's secretive 'Project Strawberry'. <https://www.newsweek.com/openai-strawberry-chat-gpt-ai-sam-altman-1925960>.
-(2) OpenAI's 'Strawberry' AI model aims for advanced reasoning. <https://readwrite.com/openai-strawberry-ai-advanced-research-reasoning/>.
-(3) STRAWBERRY: OpenAI's MOST POWERFULL AI Ever With Human-Level Reasoning. <https://www.chaindesk.ai/tools/youtube-summarizer/strawberry-open-ais-most-powerfull-ai-ever-with-human-level-reasoning-TOFb8YMPTnE>.
-(4) OpenAI’s ‘Strawberry’ project advances AI reasoning. <https://btw.media/tech-trends/openais-strawberry-project-advances-ai-reasoning/>.
-
 ### What is Deep Research in Project Strawberry?
 
 The concept of "deep research" in OpenAI's Project Strawberry goes beyond simple information retrieval or question answering. Here's what it entails:
@@ -165,12 +153,6 @@ The concept of "deep research" in OpenAI's Project Strawberry goes beyond simple
    - It accesses current information, making it valuable for scientific research, market analysis, education, and more.
 
 In essence, Project Strawberry aims to create AI models capable of conducting research at a level approaching human experts, bridging the gap between narrow AI and more general intelligence. 🍓¹²³⁴
-
-Sources:
-(1) What is OpenAI's 'Strawberry Model'? - Unite.AI. <https://www.unite.ai/what-is-openais-strawberry-model/>.
-(2) Deep Learning in Strawberry Growth Monitoring Research: A Review - Springer. <https://link.springer.com/chapter/10.1007/978-3-031-53404-1_7>.
-(3) OpenAI’s project ‘Strawberry’ could power AI with super-human .... <https://www.fastcompany.com/91156102/how-openais-secret-project-strawberry-could-power-ai-super-human-level-intelligence>.
-(4) OpenAI's hush project 'Strawberry' to give AI models ... - Cybernews. <https://cybernews.com/ai-news/openai-project-strawberry-ai-model-reasoning-skills/>.
 
 ### How will Project Strawberry help us in achieving AGI?
 
