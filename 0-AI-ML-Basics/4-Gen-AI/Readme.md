@@ -1,42 +1,52 @@
-# Generative AI: An Overview
+# Generative AI
 
-Generative AI refers to a class of artificial intelligence algorithms that generate new data instances that resemble your training data. While traditional AI models focus on predicting outcomes or classifying data, generative models are designed to create. These models can generate text, images, audio, and even structured data.
+It is a subfield of AI. These are AI systems that create new content, such as images, text or audio. In context of AI these systems are called **Models**.
 
-## Key Concepts
+Generative AI models are trained on extensive datasets, where they learn to recognize patterns and structures present in the training data. These models find applications in diverse areas, including image synthesis, text generation, and music composition.
 
-### Types of Generative Models
+## Fields
 
-1. **Generative Adversarial Networks (GANs)**:
-    - **Components**: Consist of two neural networks, the generator and the discriminator, which are trained simultaneously.
-    - **Operation**: The generator creates data instances, while the discriminator evaluates them. The goal is to improve both to the point where the generator produces data indistinguishable from the real data.
-    - **Applications**: Image synthesis, deepfake generation, and art creation.
+- **NLP**
+- **Computer Vision**
 
-2. **Variational Autoencoders (VAEs)**:
-    - **Components**: Encoder, decoder, and a latent space representation.
-    - **Operation**: VAEs learn a compressed representation of the input data and generate new data by sampling from this learned representation.
-    - **Applications**: Image reconstruction, data compression, and anomaly detection.
+## Models
 
-3. **Transformer-Based Models**:
-    - **Examples**: GPT-3, BERT, T5.
-    - **Operation**: Utilize self-attention mechanisms to generate text or other sequences.
-    - **Applications**: Text generation, language translation, code generation.
+- LLM's (Large Language Models)
+- Diffusion Models
 
-## Applications of Generative AI
+## NLP
 
-### Text Generation
+### LLM's
 
-- **Language Models**: GPT-3, a model developed by OpenAI, can write essays, summarize texts, and even generate programming code.
-- **Chatbots**: Creating more sophisticated and human-like interactions in customer service and personal assistants.
-- **Creative Writing**: Assisting authors in generating stories, poetry, and dialogue.
+LLM's are used for textual data and studied under **NLP** (Natural Language Processing).
 
-### Image Generation
+**Example:**
 
-- **Art and Design**: Tools like DeepArt and GAN-based applications generate art pieces and assist in design work.
-- **Fashion**: Generating new clothing designs and patterns.
-- **Advertising**: Creating unique and visually appealing ad content.
+**GPT** (Generative Pre-trained Transformer)
 
-### Audio Generation
+- OpenAI's ChatGPT
+- Google's Gemini
+- Meta's Llama
 
-- **Music**: AI composers can create new music tracks in various genres.
-- **Speech Synthesis**: Creating realistic human-like speech, improving virtual assistants, and aiding in communication for those with disabilities.
-- **Sound Effects**: Generating ambient noises and effects for movies and games.
+## Computer Vision
+
+### Diffusion Models
+
+Diffusion models are used for images specifically and are studied under **Computer Vision**.
+
+**Example:**
+
+- **Dall-e-2**
+- **Dall-e-3**
+
+## Difference between Multi-models and Foundational models
+
+### 1. Foundational Models
+
+**Foundational models** are large-scale artificial intelligence models trained on massive amounts of data. They are designed to be versatile and can be adapted to perform a wide range of tasks, such as **language translation**, **text generation**, and **image recognition**. These models are the foundation for many modern AI applications and have significantly advanced the capabilities of generative AI.
+
+### 2. Multi-modal Models
+
+**Multi-modal models** are AI models that can process and understand multiple types of data simultaneously. This includes text, images, audio, and video. They are capable of integrating information from different modalities to perform complex tasks like **image captioning**, **video understanding**, and **question answering**.
+
+**Generative AI Repository:** <https://github.com/sarmad426/Generative-AI>
