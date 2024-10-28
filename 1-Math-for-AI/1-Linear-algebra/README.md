@@ -25,14 +25,8 @@ Analysis of multiple variables.
 - **Matrix**: A 2-D array of numbers. 2-D.
 - **Tensor**: An n-dimensional array of numbers. 3-D or higher.
 
-**3D tensors:**
+**3D tensors:** used for time series data or sequence data.
 
-used for time series data or sequence data.
+**4D tensors:** used for image data.
 
-**4D tensors:**
-
-used for image data.
-
-**5D tensors:**
-
-used for video data.
+**5D tensors:** used for video data.
