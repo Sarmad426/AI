@@ -30,3 +30,5 @@ Analysis of multiple variables.
 **4D tensors:** used for image data.
 
 **5D tensors:** used for video data.
+
+These concepts are practically implemented in numpy. Check out here. <https://github.com/Sarmad426/Python/tree/main/8-Numpy>
